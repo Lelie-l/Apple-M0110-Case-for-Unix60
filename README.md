@@ -1,9 +1,10 @@
 # Apple-M0110-Case-for-Unix60
-Magnet-held M0110-style case for a Unix60. This is a magnet-held case, with the gasket mount from the original Unix60 preserved. 
+Magnet-held M0110-style case for a Unix60. This is a magnet-held case, with an added support for a gasket mount.
 
 **Components needed:**
 - 4mm (diameter) 2mm (depth) neodymium magnet. **(8x)**
 - 20x10x2mm neodymium magnet. **(4x)**
+- 40x5x2mm gasket strips. **(12x)**
 
 Free to use. Can be used for commercial uses, I don't care.
 
