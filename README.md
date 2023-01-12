@@ -12,4 +12,4 @@ Free to use. Can be used for commercial uses, I don't care.
 
 Made in F360, might be diagnostically useful in case you encounter a problem.
 
-Any problems or questions, please contact Leliel#5659 on Discord. AMA! I can provide you with any project files given that you're willing to wait sometimes.
+Any problems or questions, please contact Leliel#5659 on Discord. AMA! I can provide you with any project files given that you're willing to wait.
